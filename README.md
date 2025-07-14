@@ -1,11 +1,6 @@
 Hi, I’m @CHRISTOPHRBOATENG- 
-👀 I’m interested in games and other stuff- 
-🌱 I’m currently learning  computer science- 
- 💞️ I’m looking to collaborate with any one who is money minded 
- -ermm
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-⚡ Fun fact; I can be your chaffeur if you want only automatic cars
+A CS student Aspiring to be a good Computer scientist 
+
   
 
 <!---
