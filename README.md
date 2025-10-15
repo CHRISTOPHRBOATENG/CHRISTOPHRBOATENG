@@ -1,5 +1,7 @@
-Hi, I’m @CHRISTOPHRBOATENG- 
-A CS student Aspiring to be a good Computer scientist 
+<!---Hi, I’m @CHRISTOPHRBOATENG- 
+A CS student 
+Learning frontend--->
+
 
   
 
